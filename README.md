@@ -4,4 +4,4 @@
   Telegram:  https://t.me/BakePizza
   
   
-  Twitter:   https://twitter.com/BakePizza_io
+  Twitter:   https://twitter.com/BakePizzaMiner
