@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/eeef/BakePizza.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/eeef/BakePizza.sol": {
+			"keccak256": "0xbfcb77483ccc86826fbcec2e0ecb201b1cc8780e9966265ce78b8f810f1487c0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e55f6d18dd5a6af9b8fcbf0a6d67fe69b1d8b7187fdc5973d2f82e399b840f96",
+				"dweb:/ipfs/Qmajm5jfckqiizGmz2YS8mCgs5n29LiirVXHPG8q8TFdpW"
+			]
+		}
+	},
+	"version": 1
+}
